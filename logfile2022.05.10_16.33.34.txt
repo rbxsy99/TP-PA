@@ -1,0 +1,34 @@
+Registo - 2022/05/10 16:33:34
+
+Detalhes das operações: 
+
+Fase 1 -> Redirecionada para a área de gestão. 
+Gestão de Alunos -> Ficheiro de alunos importado com sucesso. 
+Gestão de Alunos -> Retornado à fase 1. 
+Fase 1 -> Selecionada a gestão de docentes. 
+Fase 1 -> Redirecionada para a área de gestão. 
+Gestão de Docentes -> Ficheiro de docentes importado com sucesso. 
+Gestão de Docentes -> Retornado à fase 1. 
+Fase 1 -> Selecionada a gestão de propostas. 
+Fase 1 -> Redirecionada para a área de gestão. 
+Gestão de Propostas -> Ficheiro de propostas importado com sucesso. 
+Gestão de Propostas -> Retornado à fase 1. 
+Fase 1 -> Fase 1 fechada com sucesso. 
+Fase 2 -> Redirecionada para a área de gestão de candidaturas. 
+Gestão de Candidaturas -> Ficheiro de candidaturas importado com sucesso. 
+Gestão de Candidaturas -> Retornado à fase 2. 
+Fase 2 -> Consultado dados das candidaturas. 
+Fase 2 -> Fase 2 fechada com sucesso. 
+Fase 3 -> Escolhido a atribuição de propostas. 
+Atribuições de Propostas -> Atribuições automáticas realizadas com sucesso. 
+Atribuições de Propostas -> Atribuições automáticas ao aluno por autoproposta realizadas com sucesso. 
+Atribuições de Propostas -> Retornado para a fase 3. 
+Fase 3 -> Fase 3 fechada com sucesso. 
+Fase 4 -> Associações de orientadores automáticas atribuidas com sucesso. 
+Fase 4 -> Redirecionado para a Gestão de orientadores. 
+Gestão de Orientadores -> Consultado dados do orientador. 
+Gestão de Orientadores -> Retornado à fase 4. 
+Fase 4 -> Listado alunos consoante os filtros escolhidos. 
+Fase 4 -> Fase 4 fechada com sucesso. 
+Fase 5 -> Listado dados finais. 
+Fase 5 -> Aplicação terminada com sucesso. 
